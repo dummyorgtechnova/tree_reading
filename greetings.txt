@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello from Kathan Parekh!!! 
 Hello from Kathan
 Hello from Yashraj
@@ -6,8 +5,6 @@ Hello from Parth
 Merged from Yashraj and Parth
 Hello from Kathan
 Hello From Jainil
-=======
 Hello from Kathan
 Hello From Jainil
 
->>>>>>> 643e7d70a0faac0305a88e1763e73972267fc556
